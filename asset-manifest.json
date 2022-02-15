@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ewave/static/css/main.403aa772.css",
-    "main.js": "/ewave/static/js/main.cef47fd2.js",
+    "main.js": "/ewave/static/js/main.a4347e8b.js",
     "index.html": "/ewave/index.html",
     "main.403aa772.css.map": "/ewave/static/css/main.403aa772.css.map",
-    "main.cef47fd2.js.map": "/ewave/static/js/main.cef47fd2.js.map"
+    "main.a4347e8b.js.map": "/ewave/static/js/main.a4347e8b.js.map"
   },
   "entrypoints": [
     "static/css/main.403aa772.css",
-    "static/js/main.cef47fd2.js"
+    "static/js/main.a4347e8b.js"
   ]
 }
