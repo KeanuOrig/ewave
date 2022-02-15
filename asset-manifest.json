@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ewave/static/css/main.403aa772.css",
+    "main.js": "/ewave/static/js/main.10d4c787.js",
+    "index.html": "/ewave/index.html",
+    "main.403aa772.css.map": "/ewave/static/css/main.403aa772.css.map",
+    "main.10d4c787.js.map": "/ewave/static/js/main.10d4c787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.403aa772.css",
+    "static/js/main.10d4c787.js"
+  ]
+}
